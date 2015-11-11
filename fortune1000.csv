@@ -1,0 +1,1001 @@
+rank,name,domain
+1,Exxon Mobil,exxonmobil.com
+2,Wal-Mart Stores,corporate.walmart.com
+3,Chevron,chevron.com
+4,ConocoPhillips,conocophillips.com
+5,General Electric,ge.com
+6,General Motors,gm.com
+7,Ford Motor,ford.com
+8,AT&T,att.com
+9,Hewlett-Packard,hp.com
+10,Valero Energy,valero.com
+11,Bank of America Corp.,bankofamerica.com
+12,Citigroup,citigroup.com
+13,Berkshire Hathaway,berkshirehathaway.com
+14,International Business Machines,ibm.com
+15,McKesson,mckesson.com
+16,J.P. Morgan Chase & Co.,jpmorganchase.com
+17,Verizon Communications,verizon.com
+18,Cardinal Health,cardinal.com
+19,CVS Caremark,caremark.com
+20,Procter & Gamble,pg.com
+21,UnitedHealth Group,unitedhealthgroup.com
+22,Kroger,kroger.com
+23,Marathon Oil,marathon.com
+24,Costco Wholesale,costco.com
+25,Home Depot,homedepot.com
+26,AmerisourceBergen,amerisourcebergen.com
+27,Archer Daniels Midland,adm.com
+28,Target,target.com
+29,Johnson & Johnson,jnj.com
+30,Morgan Stanley,morganstanley.com
+31,State Farm Insurance Cos.,statefarm.com
+32,WellPoint,wellpoint.com
+33,Dell,dell.com
+34,Boeing,boeing.com
+35,Microsoft,microsoft.com
+36,Walgreen,walgreens.com
+37,United Technologies,utc.com
+38,Dow Chemical,dow.com
+39,MetLife,metlife.com
+40,Goldman Sachs Group,goldmansachs.com
+41,Sunoco,sunocoinc.com
+42,Wells Fargo,wellsfargo.com
+43,United Parcel Service,ups.com
+44,Caterpillar,cat.com
+45,Medco Health Solutions,medcohealth.com
+46,Pfizer,pfizer.com
+47,Lowe's,lowes.com
+48,Time Warner,timewarner.com
+49,Sears Holdings,searsholdings.com
+50,Safeway,safeway.com
+51,Supervalu,supervalu.com
+52,PepsiCo,pepsico.com
+53,Kraft Foods,kraftfoodscompany.com
+54,Lockheed Martin,lockheedmartin.com
+55,Hess,hess.com
+56,Best Buy,bestbuy.com
+57,Cisco Systems,cisco.com
+58,Johnson Controls,johnsoncontrols.com
+59,FedEx,fedex.com
+60,Walt Disney,disney.go.com
+61,Intel,intel.com
+62,Sysco,sysco.com
+63,Honeywell International,honeywell.com
+64,Sprint Nextel,nextel.com
+65,Enterprise GP Holdings,en.wikipedia.org
+66,GMAC,gmacmortgage.com
+67,Ingram Micro,ingrammicro.com
+68,Comcast,xfinity.comcast.net
+69,Northrop Grumman,northropgrumman.com
+70,News Corp.,newscorp.com
+71,Apple,apple.com
+72,CHS,chs.net
+73,Coca-Cola,coca-cola.com
+74,American Express,americanexpress.com
+75,DuPont,dupont.com
+76,New York Life Insurance,newyorklife.com
+77,Aetna,aetna.com
+78,Motorola,motorola.com
+79,Plains All American Pipeline,paalp.com
+80,Abbott Laboratories,abbott.com
+81,Allstate,allstate.com
+82,TIAA-CREF,tiaa-cref.org
+83,General Dynamics,generaldynamics.com
+84,Prudential Financial,prudential.com
+85,Humana,humana.com
+86,Liberty Mutual Insurance Group,libertymutual.com
+87,Deere,deere.com
+88,HCA,hcahealthcare.com
+89,Tyson Foods,tyson.com
+90,Alcoa,alcoa.com
+91,Tesoro,tesoropetroleum.com
+92,Murphy Oil,murphyoilcorp.com
+93,Philip Morris International,pmi.com
+94,Emerson Electric,emerson.com
+95,3M,3m.com
+96,Macy's,macys.com
+97,International Paper,internationalpaper.com
+98,Occidental Petroleum,oxy.com
+99,Travelers Cos.,travelers.com
+100,Rite Aid,riteaid.com
+101,Publix Super Markets,publix.com
+102,Tech Data,techdata.com
+103,Merck,merck.com
+104,AMR,amr.net
+105,United States Steel,ussteel.com
+106,Nucor,nucor.com
+107,McDonald's,mcdonalds.com
+108,Raytheon,raytheon.com
+109,Staples,staples.com
+110,Wyeth,wyeth.com
+111,Delta Air Lines,delta.com
+112,Fannie Mae,fanniemae.com
+113,Oracle,oracle.com
+114,Fluor,fluor.com
+115,Express Scripts,express-scripts.com
+116,Coca-Cola Enterprises,cokecce.com
+117,Google,google.com
+118,Northwestern Mutual,northwesternmutual.com
+119,Manpower,manpower.com
+120,Bristol-Myers Squibb,bms.com
+121,Delphi,delphi.com
+122,Eli Lilly,lilly.com
+123,UAL,united.com
+124,Nationwide,nationwide.com
+125,Constellation Energy,constellation.com
+126,DirecTV Group,directv.com
+127,Goodyear Tire & Rubber,goodyear.com
+128,Kimberly-Clark,kimberly-clark.com
+129,U.S. Bancorp,usbank.com
+130,Amazon.com,amazon.com
+131,TJX,tjx.com
+132,Cigna,cigna.com
+133,Whirlpool,whirlpool.com
+134,Exelon,exeloncorp.com
+135,Massachusetts Mutual Life Insurance,massmutual.com
+136,Nike,nike.com
+137,World Fuel Services,wfscorp.com
+138,Schering-Plough,en.wikipedia.org
+139,J.C. Penney,jcpenney.com
+140,International Assets Holding,intlfcstone.com
+141,Halliburton,halliburton.com
+142,Burlington Northern Santa Fe,bnsf.com
+143,Union Pacific,up.com
+144,Avnet,avnet.com
+145,Capital One Financial,capitalone.com
+146,Freeport-McMoRan Copper & Gold,fcx.com
+147,Xerox,xerox.com
+148,Illinois Tool Works,itw.com
+149,Southern,southerncompany.com
+150,Merrill Lynch,ml.com
+151,Arrow Electronics,arrow.com
+152,AFLAC,aflac.com
+153,Computer Sciences,csc.com
+154,FPL Group,fpl.com
+155,Kohl's,kohls.com
+156,Bank of New York Mellon Corp.,bnymellon.com
+157,Dominion Resources,dom.com
+158,AES,aes.org
+159,Oneok,oneok.com
+160,Altria Group,altria.com
+161,PPG Industries,ppg.com
+162,Anadarko Petroleum,anadarko.com
+163,Devon Energy,devonenergy.com
+164,Eaton,eaton.com
+165,Health Net,healthnet.com
+166,Colgate-Palmolive,colgate.com
+167,Continental Airlines,united.com
+168,Amgen,amgen.com
+169,TRW Automotive Holdings,trw.com
+170,Paccar,paccar.com
+171,L-3 Communications,l-3com.com
+172,EMC,emc.com
+173,Textron,textron.com
+174,Loews,loewshotels.com
+175,Navistar International,navistar.com
+176,PG&E Corp.,pgecorp.com
+177,Viacom,viacom.com
+178,Gap,gap.com
+179,Office Depot,officedepot.com
+180,American Electric Power,aep.com
+181,Cummins,cummins.com
+182,AutoNation,autonation.com
+183,Smithfield Foods,smithfieldfoods.com
+184,Edison International,edison.com
+185,Integrys Energy Group,integrysgroup.com
+186,CBS,cbs.com
+187,Sun Microsystems,oracle.com
+188,ConAgra Foods,conagrafoods.com
+189,Pepsi Bottling,pepsibottlingventures.com
+190,Public Service Enterprise Group,pseg.com
+191,Consolidated Edison,coned.com
+192,"Toys R"""" Us""""",toysrus.com
+193,General Mills,generalmills.com
+194,FirstEnergy,firstenergycorp.com
+195,Lear,lear.com
+196,Medtronic,medtronic.com
+197,Qwest Communications,centurylink.com
+198,Aramark,aramark.com
+199,Sara Lee,saralee.com
+200,National Oilwell Varco,nov.com
+201,Waste Management,wm.com
+202,Omnicom Group,omnicomgroup.com
+203,Chubb,chubb.com
+204,Duke Energy,duke-energy.com
+205,Entergy,entergy.com
+206,State Street Corp.,statestreet.com
+207,United Services Automobile Association,usaa.com
+208,Marriott International,marriott.com
+209,Progressive,progressive.com
+210,Kellogg,kelloggs.com
+211,SunTrust Banks,suntrust.com
+212,Jabil Circuit,jabil.com
+213,Danaher,danaher.com
+214,Reliant Energy,reliant.com
+215,Texas Instruments,ti.com
+216,Dean Foods,deanfoods.com
+217,Apache,apache.org
+218,Williams,williams.edu
+219,Baxter International,baxter.com
+220,Freddie Mac,freddiemac.com
+221,Parker Hannifin,parker.com
+222,US Airways Group,usairways.com
+223,Knight,en.wikipedia.org
+224,Land O'Lakes,landolakes.com
+225,Penske Automotive Group,penskeautomotive.com
+226,Coventry Health Care,jobs.coventryhealthcare.com
+227,Baker Hughes,bakerhughes.com
+228,Circuit City Stores,circuitcity.com
+229,ITT,itt.com
+230,Chesapeake Energy,chk.com
+231,DISH Network,dish.com
+232,Marsh & McLennan,mmc.com
+233,R.R. Donnelley & Sons,rrdonnelley.com
+234,KBR,kbr.com
+235,Monsanto,monsanto.com
+236,Weyerhaeuser,weyerhaeuser.com
+237,Energy Future Holdings,energyfutureholdings.com
+238,CenterPoint Energy,centerpointenergy.com
+239,Yum Brands,yum.com
+240,CSX,csx.com
+241,Jacobs Engineering Group,jacobs.com
+242,Xcel Energy,xcelenergy.com
+243,Community Health Systems,chs.net
+244,Qualcomm,qualcomm.com
+245,American International Group,aig.com
+246,Southwest Airlines,southwest.com
+247,Genuine Parts,genpt.com
+248,Air Products & Chemicals,airproducts.com
+249,Praxair,praxair.com
+250,Smith International,en.wikipedia.org
+251,Commercial Metals,cmc.com
+252,Sempra Energy,sempra.com
+253,Western Refining,wnr.com
+254,Pepco Holdings,pepcoholdings.com
+255,Avon Products,avon.com
+256,Norfolk Southern,nscorp.com
+257,Liberty Global,lgi.com
+258,Thermo Fisher Scientific,thermofisher.com
+259,Dollar General,dollargeneral.com
+260,BB&T Corp.,bbt.com
+261,Starbucks,starbucks.com
+262,Huntsman,huntsman.com
+263,Harrah's Entertainment,totalrewards.com
+264,URS,urscorp.com
+265,Liberty Media,libertymedia.com
+266,SAIC,saic.com
+267,H.J. Heinz,heinz.com
+268,Enbridge Energy Partners,enbridgepartners.com
+269,BJ's Wholesale Club,bjs.com
+270,Unum Group,unum.com
+271,Genworth Financial,genworth.com
+272,Calpine,calpine.com
+273,Principal Financial,principal.com
+274,Lincoln National,lfg.com
+275,Terex,terex.com
+276,Mosaic,en.wikipedia.org
+277,Masco,masco.com
+278,PNC Financial Services Group,pnc.com
+279,Guardian Life Ins. Co. of America,guardianlife.com
+280,Regions Financial,regions.com
+281,Rohm & Haas,rohmhaas.com
+282,Visteon,visteon.com
+283,Tenet Healthcare,tenethealth.com
+284,Eastman Kodak,kodak.com
+285,DTE Energy,dteenergy.com
+286,Energy Transfer Equity,energytransfer.com
+287,Hartford Financial Services,thehartford.com
+288,Progress Energy,progress-energy.com
+289,NiSource,nisource.com
+290,Limited Brands,limitedbrands.com
+291,Global Partners,globalp.com
+292,Sanmina-SCI,sanmina-sci.com
+293,YRC Worldwide,yrcw.com
+294,Reynolds American,reynoldsamerican.com
+295,First Data,firstdata.com
+296,GameStop,gamestop.com
+297,Automatic Data Processing,adp.com
+298,Reliance Steel & Aluminum,rsac.com
+299,Assurant,assurant.com
+300,C.H. Robinson Worldwide,chrobinson.com
+301,Nordstrom,shop.nordstrom.com
+302,Fifth Third Bancorp,53.com
+303,eBay,ebay.com
+304,Pilgrim's Pride,pilgrims.com
+305,Hertz Global Holdings,hertz.com
+306,AGCO,agcocorp.com
+307,Aon,aon.com
+308,Centex,centex.com
+309,Campbell Soup,campbellsoup.com
+310,Ashland,ashland.com
+311,CarMax,carmax.com
+312,Crown Holdings,crowncork.com
+313,OfficeMax,officemax.com
+314,PPL,pplelectric.com
+315,Applied Materials,appliedmaterials.com
+316,Dana Holding,dana.com
+317,Pantry,en.wikipedia.org
+318,Steel Dynamics,en.wikipedia.org
+319,Western Digital,wdc.com
+320,Boston Scientific,bostonscientific.com
+321,Peter Kiewit Sons',kiewit.com
+322,Sherwin-Williams,sherwin-williams.com
+323,Targa Resources,targaresources.com
+324,Whole Foods Market,wholefoodsmarket.com
+325,Est?e Lauder,esteelauder.com
+326,Owens-Illinois,o-i.com
+327,Ameren,ameren.com
+328,Synnex,synnex.com
+329,Dole Food,dole.com
+330,XTO Energy,xtoenergy.com
+331,SLM,finance.yahoo.com
+332,TravelCenters of America,tatravelcenters.com
+333,Dover,doverpublications.com
+334,AK Steel Holding,aksteel.com
+335,VF,vfc.com
+336,Ball,freshpreserving.com
+337,Sonic Automotive,sonicautomotive.com
+338,Virgin Media,virginmedia.com
+339,Owens & Minor,owens-minor.com
+340,Winn-Dixie Stores,winndixie.com
+341,Quest Diagnostics,questdiagnostics.com
+342,Cablevision Systems,cablevision.com
+343,Atmos Energy,atmosenergy.com
+344,MGM Mirage,mgmresorts.com
+345,Yahoo,yahoo.com
+346,ArvinMeritor,meritor.com
+347,Becton Dickinson,bd.com
+348,Ameriprise Financial,ameriprise.com
+349,Oshkosh,carters.com
+350,EOG Resources,eogresources.com
+351,Fortune Brands,fortunebrands.com
+352,Discover Financial Services,discoverfinancial.com
+353,Peabody Energy,peabodyenergy.com
+354,Goodrich,goodrich.com
+355,Bed Bath & Beyond,bedbathandbeyond.com
+356,Smurfit-Stone Container,en.wikipedia.org
+357,Shaw Group,shawgrp.com
+358,Dillard's,dillards.com
+359,Family Dollar Stores,familydollar.com
+360,Great Atlantic & Pacific Tea,aptea.com
+361,Interpublic Group,interpublic.com
+362,Precision Castparts,precast.com
+363,NRG Energy,nrgenergy.com
+364,Eastman Chemical,eastman.com
+365,MeadWestvaco,meadwestvaco.com
+366,W.W. Grainger,grainger.com
+367,Mohawk Industries,mohawkind.com
+368,Celanese,celanese.com
+369,CMS Energy,cmsenergy.com
+370,Emcor Group,emcorgroup.com
+371,Gannett,gannett.com
+372,CC Media Holdings,ccmediaholdings.com
+373,Hormel Foods,hormelfoods.com
+374,Darden Restaurants,darden.com
+375,Stryker,stryker.com
+376,Avery Dennison,averydennison.com
+377,UGI,ugi.com
+378,D.R. Horton,drhorton.com
+379,AbitibiBowater,bowater.ca
+380,AutoZone,autozone.com
+381,WellCare Health Plans,wellcare.com
+382,KeyCorp,key.com
+383,Frontier Oil,hollyfrontier.com
+384,Ross Stores,rossstores.com
+385,Charter Communications,charter.com
+386,Autoliv,autoliv.com
+387,Newell Rubbermaid,newellrubbermaid.com
+388,American Family Insurance Group,amfam.com
+389,Henry Schein,henryschein.com
+390,Domtar,domtar.com
+391,McGraw-Hill,mcgraw-hill.com
+392,Omnicare,omnicare.com
+393,Pulte Homes,pulte.com
+394,Visa,usa.visa.com
+395,Pitney Bowes,pb.com
+396,General Cable,generalcable.com
+397,CIT Group,cit.com
+398,First American Corp.,firstam.com
+399,Ryder System,ryder.com
+400,Newmont Mining,newmont.com
+401,Affiliated Computer Services,acs-inc.com
+402,SPX,spx.com
+403,Ecolab,ecolab.com
+404,Anixter International,anixter.com
+405,Embarq,embarq.org
+406,Wesco International,wesco.com
+407,Hexion Specialty Chemicals,momentive.com
+408,Black & Decker,blackanddecker.com
+409,Thrivent Financial for Lutherans,thrivent.com
+410,Franklin Resources,franklinresources.com
+411,Avis Budget Group,avisbudgetgroup.com
+412,Harley-Davidson,harley-davidson.com
+413,Aleris International,aleris.com
+414,Corning,corning.com
+415,Mattel,mattel.com
+416,Tenneco,tenneco.com
+417,Starwood Hotels & Resorts,starwoodhotels.com
+418,Advanced Micro Devices,amd.com
+419,Symantec,symantec.com
+420,Holly,en.wikipedia.org
+421,Cameron International,c-a-m.com
+422,Owens Corning,owenscorning.com
+423,Micron Technology,micron.com
+424,Northeast Utilities,nu.com
+425,Agilent Technologies,agilent.com
+426,ProLogis,prologis.com
+427,Dr Pepper Snapple Group,drpeppersnapplegroup.com
+428,Group 1 Automotive,group1auto.com
+429,Rockwell Automation,rockwellautomation.com
+430,Northern Trust Corp.,northerntrust.com
+431,Timken,timken.com
+432,Perini,tutorperini.com
+433,DaVita,davita.com
+434,Expeditors International of Washington,expeditors.com
+435,SunGard Data Systems,sungard.com
+436,CH2M Hill,ch2m.com
+437,Kelly Services,kellyservices.com
+438,BJ Services,bakerhughes.com
+439,Graybar Electric,graybar.com
+440,Charles Schwab,schwab.com
+441,Western & Southern Financial Group,westernsouthern.com
+442,Jarden,jarden.com
+443,El Paso,elpasotexas.gov
+444,Gilead Sciences,gilead.com
+445,Scana,scana.com
+446,NCR,ncr.com
+447,Harris,harris.com
+448,Allegheny Technologies,atimetals.com
+449,Host Hotels & Resorts,hosthotels.com
+450,Blockbuster,blockbuster.com
+451,Western Union,westernunion.com
+452,Clorox,clorox.com
+453,BorgWarner,borgwarner.com
+454,Foot Locker,footlocker.com
+455,Barnes & Noble,barnesandnoble.com
+456,Unisys,unisys.com
+457,Freescale Semiconductor,freescale.com
+458,AECOM Technology,aecom.com
+459,Spectra Energy,spectraenergy.com
+460,FMC Technologies,fmctechnologies.com
+461,Advance Auto Parts,shop.advanceautoparts.com
+462,Mylan,mylan.com
+463,Hershey,hersheys.com
+464,CB Richard Ellis Group,cbre.com
+465,Telephone & Data Systems,teldta.com
+466,Icahn Enterprises,ielp.com
+467,Universal Health Services,uhsinc.com
+468,PetSmart,petsmart.com
+469,BlackRock,blackrock.com
+470,Con-way,con-way.com
+471,Lubrizol,lubrizol.com
+472,CVR Energy,gwec.com
+473,MDU Resources Group,mdu.com
+474,MasterCard,mastercard.com
+475,United Stationers,unitedstationers.com
+476,Auto-Owners Insurance,auto-owners.com
+477,NYSE Euronext,nyse.com
+478,PepsiAmericas,en.wikipedia.org
+479,Crosstex Energy,crosstexenergy.com
+480,Manitowoc,manitowoc.com
+481,Polo Ralph Lauren,ralphlauren.com
+482,Fiserv,fiserv.com
+483,Sealed Air,sealedair.com
+484,Insight Enterprises,insight.com
+485,NuStar Energy,nustarenergy.com
+486,Asbury Automotive Group,asburyauto.com
+487,Molson Coors Brewing,molsoncoorscanada.com
+488,Rockwell Collins,rockwellcollins.com
+489,Realogy,realogy.com
+490,W.R. Berkley,wrberkley.com
+491,Brunswick,brunswickbowling.com
+492,Nash-Finch,nashfinch.com
+493,Leggett & Platt,leggett.com
+494,Universal American,universalamerican.com
+495,Broadcom,broadcom.com
+496,Brightpoint,brightpoint.com
+497,Consol Energy,consolenergy.com
+498,Big Lots,biglots.com
+499,Dollar Tree,dollartree.com
+500,Legg Mason,leggmason.com
+501,USG,usg.com
+502,Genzyme,genzyme.com
+503,Robert Half International,rhi.com
+504,Neiman Marcus,neimanmarcus.com
+505,Lennar,lennar.com
+506,Core-Mark Holding,core-mark.com
+507,Lexmark International,lexmark.com
+508,Chiquita Brands International,chiquita.com
+509,Amerigroup,amerigroup.com
+510,Laboratory Corp. of America,labcorp.com
+511,Health Management Associates,hma.com
+512,Stanley Works,stanleyblackanddecker.com
+513,Flowserve,flowserve.com
+514,Washington Post,washingtonpost.com
+515,Wisconsin Energy,wisconsinenergy.com
+516,Casey's General Stores,caseys.com
+517,Allergan,allergan.com
+518,Levi Strauss,levistrauss.com
+519,Las Vegas Sands,lasvegassands.com
+520,St. Jude Medical,sjm.com
+521,NewPage Holding,newpagecorp.com
+522,Energizer Holdings,energizerholdings.com
+523,Fidelity National Financial,fnf.com
+524,Live Nation,livenation.com
+525,Mutual of Omaha Insurance,mutualofomaha.com
+526,Level 3 Communications,level3.com
+527,American Financial Group,afginc.com
+528,Wyndham Worldwide,wyndhamworldwide.com
+529,CA,ca.com
+530,NII Holdings,nii.com
+531,Seaboard,seaboardcorp.com
+532,Hanesbrands,hanesbrands.com
+533,Brinker International,brinker.com
+534,RadioShack,radioshack.com
+535,M&T Bank Corp.,mtb.com
+536,Nalco Holding,nalco.com
+537,Conseco,conseco.com
+538,Kindred Healthcare,kindredhealthcare.com
+539,Alliant Techsystems,atk.com
+540,Adams Resources & Energy,adamsresources.com
+541,Dick's Sporting Goods,dickssportinggoods.com
+542,Sonoco Products,sonoco.com
+543,Zimmer Holdings,zimmer.com
+544,Harman International Industries,harman.com
+545,Unified Grocers,unifiedgrocers.com
+546,Biogen Idec,biogenidec.com
+547,Graphic Packaging Holding,graphicpkg.com
+548,OGE Energy,oge.com
+549,Liz Claiborne,lizclaiborne.com
+550,Marshall & Ilsley Corp.,micorp.com
+551,Pacific Life,pacificlife.com
+552,Hasbro,hasbro.com
+553,Airgas,airgas.com
+554,CommScope,commscope.com
+555,Ruddick,ruddickcorp.com
+556,H&R Block,hrblock.com
+557,Harsco,harsco.com
+558,Susser Holdings,susser.com
+559,Comerica,comerica.com
+560,Corn Products International,ingredion.com
+561,Cintas,cintas.com
+562,Discovery Communications,corporate.discovery.com
+563,CF Industries Holdings,cfindustries.com
+564,Noble Energy,nobleenergyinc.com
+565,Solutia,solutia.com
+566,Temple-Inland,templeinland.com
+567,Trinity Industries,trin.net
+568,Jones Financial,edwardjones.com
+569,Forest Laboratories,frx.com
+570,Cincinnati Financial,cinfin.com
+571,Michaels Stores,michaels.com
+572,New Jersey Resources,njresources.com
+573,Simon Property Group,simon.com
+574,Quanta Services,quantaservices.com
+575,Bemis,bemis.com
+576,Greif,greif.com
+577,Nicor,nicor.com
+578,Constellation Brands,cbrands.com
+579,VWR Funding,investors.vwr.com
+580,Stater Bros. Holdings,staterbros.com
+581,ABM Industries,abm.com
+582,Del Monte Foods,delmonte.com
+583,J.B. Hunt Transport Services,jbhunt.com
+584,NVR,nvrinc.com
+585,Exide Technologies,exide.com
+586,Westlake Chemical,westlake.com
+587,Republic Services,republicservices.com
+588,Alliant Energy,alliantenergy.com
+589,Nacco Industries,nacco.com
+590,Electronic Arts,ea.com
+591,Alaska Air Group,alaskaair.com
+592,Vulcan Materials,vulcanmaterials.com
+593,Nasdaq OMX Group,nasdaqomx.com
+594,RPM International,rpminc.com
+595,Schnitzer Steel Industries,schnitzersteel.com
+596,Cytec Industries,cytec.com
+597,Hospira,hospira.com
+598,Jones Apparel Group,jonesgroupinc.com
+599,Cliffs Natural Resources,cliffsnaturalresources.com
+600,Brink's,brinks.com
+601,Adobe Systems,adobe.com
+602,O'Reilly Automotive,oreillyauto.com
+603,Juniper Networks,juniper.net
+604,Pactiv,pactiv.com
+605,Dynegy,dynegy.com
+606,Chemtura,chemtura.com
+607,Abercrombie & Fitch,abercrombie.com
+608,NV Energy,nvenergy.com
+609,Centene,centene.com
+610,Berry Plastics,berryplastics.com
+611,Huntington Bancshares,huntington.com
+612,Fidelity National Information Services,fisglobal.com
+613,Belk,belk.com
+614,Skywest,skywest.com
+615,Lennox International,lennoxinternational.com
+616,Warner Music Group,wmg.com
+617,Andersons,andersonsstore.com
+618,Valspar,valsparpaint.com
+619,Questar,questargas.com
+620,Collective Brands,collectivebrands.com
+621,Pinnacle West Capital,pinnaclewest.com
+622,Rockwood Holdings,rocksp.com
+623,Nvidia,nvidia.com
+624,Burlington Coat Factory,burlingtoncoatfactory.com
+625,Steelcase,steelcase.com
+626,Joy Global,joyglobal.com
+627,Pentair,pentairpool.com
+628,Armstrong World Industries,armstrong.com
+629,JetBlue Airways,jetblue.com
+630,Allegheny Energy,en.wikipedia.org
+631,JohnsonDiversey,diversey.com
+632,TECO Energy,tecoenergy.com
+633,BearingPoint,bearingpoint.com
+634,United Natural Foods,unfi.com
+635,ServiceMaster,servicemaster.com
+636,General Growth Properties,ggp.com
+637,Williams-Sonoma,williams-sonoma.com
+638,Puget Energy,pugetenergy.com
+639,Borders Group,en.wikipedia.org
+640,SanDisk,sandisk.com
+641,NSTAR,nstar.com
+642,Molex,molex.com
+643,Torchmark,torchmarkcorp.com
+644,W.R. Grace,grace.com
+645,Hovnanian Enterprises,khov.com
+646,US Oncology Holdings,usoncology.com
+647,NetApp,netapp.com
+648,DRS Technologies,drs.com
+649,United Rentals,ur.com
+650,Ingles Markets,ingles-markets.com
+651,Old Republic International,oldrepublic.com
+652,Amphenol,amphenol.com
+653,Hewitt Associates,aonhewitt.com
+654,Bon-Ton Stores,bonton.com
+655,Hawaiian Electric Industries,hei.com
+656,Windstream,windstream.com
+657,Raymond James Financial,raymondjames.com
+658,Cabot,cabotcheese.coop
+659,E*Trade Financial,us.etrade.com
+660,Mirant,en.wikipedia.org
+661,Coach,coach.com
+662,Exterran Holdings,exterran.com
+663,Carlisle,carlisle.com
+664,McCormick,mccormick.com
+665,Diebold,diebold.com
+666,Zions Bancorp.,zionsbancorporation.com
+667,Toll Brothers,tollbrothers.com
+668,Country Ins. & Financial Services,countryfinancial.com
+669,Apollo Group,apollogrp.edu
+670,Popular,dictionary.reference.com
+671,Silgan Holdings,silganholdings.com
+672,FMC,fmc.com
+673,Molina Healthcare,molinahealthcare.com
+674,Sovereign Bancorp,sovereignbank.com
+675,Beckman Coulter,beckmancoulter.com
+676,First Horizon National Corp.,firsthorizon.com
+677,Saks,saksfifthavenue.com
+678,Intuit,intuit.com
+679,Southern Union,suscc.edu
+680,Worthington Industries,worthingtonindustries.com
+681,Iron Mountain,ironmountain.com
+682,KB Home,kbhome.com
+683,Systemax,systemax.com
+684,Tractor Supply,tractorsupply.com
+685,Jack in the Box,jackinthebox.com
+686,Erie Insurance Group,erieinsurance.com
+687,Patterson,pattersondental.com
+688,United Refining,urc.com
+689,Massey Energy,alphanr.com
+690,American Eagle Outfitters,ae.com
+691,Wynn Resorts,wynnresorts.com
+692,Arch Coal,archcoal.com
+693,Scotts Miracle-Gro,scotts.com
+694,Boise Cascade Holdings,bc.com
+695,Idearc,reuters.com
+696,PHH,phh.com
+697,New York Times,nytimes.com
+698,Oil States International,oilstates.com
+699,Expedia,expedia.com
+700,Snap-On,snapon.com
+701,VeraSun Energy,en.wikipedia.org
+702,Vornado Realty Trust,vno.com
+703,Georgia Gulf,ggc.com
+704,Terra Industries,cfindustries.com
+705,Activision Blizzard,activisionblizzard.com
+706,Rent A Center,rentacenter.com
+707,Cooper Tire & Rubber,coopertire.com
+708,LandAmerica Financial Group,landam.com
+709,Tiffany & Co,tiffany.com
+710,IAC/InterActiveCorp,iac.com
+711,Rock-Tenn,rocktenn.com
+712,Vishay Intertechnology,vishay.com
+713,Ralcorp Holdings,ralcorp.com
+714,HSN,hsn.com
+715,Unitrin,unitrin.com
+716,Cognizant Technology Solutions,cognizant.com
+717,AGL Resources,aglresources.com
+718,Interstate Bakeries,hostessbrands.com
+719,Vanguard Health Systems,vanguardhealth.com
+720,TD Ameritrade,tdameritrade.com
+721,Convergys,convergys.com
+722,BlueLinx Holdings,bluelinxco.com
+723,Perot Systems,perotsystems.com
+724,Regal Entertainment Group,regmovies.com
+725,Hanover Insurance Group,hanover.com
+726,LifePoint Hospitals,lifepointhospitals.com
+727,MetroPCS Communications,metropcs.com
+728,Buildings Materials Corp. of America,gaf.com
+729,Securian Financial Group,securian.com
+730,Regis,regis.edu
+731,PolyOne,polyone.com
+732,Kennametal,kennametal.com
+733,Hubbell,hubbell.com
+734,Analog Devices,analog.com
+735,Jones Lang LaSalle,us.am.joneslanglasalle.com
+736,Spectrum Brands,spectrumbrands.com
+737,LSI,lsi.com
+738,Granite Construction,graniteconstruction.com
+739,StanCorp Financial,stancorpfinancial.com
+740,Hudson City Bancorp,hcsbonline.com
+741,Amkor Technology,amkor.com
+742,Sally Beauty Holdings,sallybeautyholdings.com
+743,Landstar System,landstar.com
+744,Thor Industries,thorindustries.com
+745,Quiksilver,quiksilver.com
+746,Thomas & Betts,tnb.com
+747,Charming Shoppes,charmingshoppes.com
+748,WGL Holdings,wglholdings.com
+749,Magellan Health Services,magellanhealth.com
+750,R.H. Donnelley,en.wikipedia.org
+751,Spartan Stores,spartanstores.com
+752,Crane,crane.com
+753,CenturyTel,centurytel.net
+754,Cooper-Standard Holdings,cooperstandard.com
+755,Benchmark Electronics,bench.com
+756,WABCO Holdings,wabco-auto.com
+757,Graham Packaging,grahampackaging.com
+758,Brown-Forman,brown-forman.com
+759,Lithia Motors,lithia.com
+760,Pall,pall.com
+761,CME Group,cmegroup.com
+762,Alpha Natural Resources,alphanr.com
+763,Mueller Industries,muellerindustries.com
+764,Cabela's,cabelas.com
+765,AirTran Holdings,en.wikipedia.org
+766,FM Global,fmglobal.com
+767,Catalyst Health Solutions,sxc.com
+768,AmeriCredit,gmfinancial.com
+769,Watson Pharmaceuticals,watson.com
+770,Ametek,ametek.com
+771,International Game Technology,igt.com
+772,American National Insurance,anico.com
+773,J.M. Smucker,smuckers.com
+774,Kla-Tencor,kla-tencor.com
+775,Bucyrus International,en.wikipedia.org
+776,Protective Life,protective.com
+777,AMC Entertainment,amctheatres.com
+778,Phillips-Van Heusen,pvh.com
+779,Calumet Specialty Products,calumetspecialty.com
+780,Source Interlink Cos.,sourceinterlink.com
+781,ENSCO International,enscoplc.com
+782,Vectren,vectren.com
+783,Volt Information Sciences,volt.com
+784,Lincoln Electric Holdings,lincolnelectric.com
+785,HNI,hnicorp.com
+786,Lam Research,lamresearch.com
+787,Pride International,enscous.com
+788,Albemarle,albemarle.com
+789,PNM Resources,pnmresources.com
+790,Burger King Holdings,investor.bk.com
+791,C.R. Bard,crbard.com
+792,CUNA Mutual Group,cunamutual.com
+793,Boise,cityofboise.org
+794,Penn National Gaming,pngaming.com
+795,Church & Dwight,churchdwight.com
+796,Weis Markets,weismarkets.com
+797,Teleflex,teleflexmarine.com
+798,CACI International,caci.com
+799,Flowers Foods,flowersfoods.com
+800,Mercury General,mercuryinsurance.com
+801,Scholastic,scholastic.com
+802,Plains Exploration and Production,pxp.com
+803,National Fuel Gas,natfuel.com
+804,National Life Group,nationallifegroup.com
+805,Intl. Flavors & Fragrances,iff.com
+806,Medical Mutual of Ohio,medmutual.com
+807,Cracker Barrel Old Country Store,crackerbarrel.com
+808,Biomet,biomet.com
+809,Valassis Communications,valassis.com
+810,Annaly Capital Management,annaly.com
+811,Applied Biosystems,appliedbiosystems.com
+812,Packaging Corp. of America,packagingcorp.com
+813,Fastenal,fastenal.com
+814,Pioneer Natural Resources,pioneernrc.com
+815,NTK Holdings,nortek-inc.com
+816,Great Plains Energy,greatplainsenergy.com
+817,IMS Health,imshealth.com
+818,Autodesk,usa.autodesk.com
+819,Southwestern Energy,swn.com
+820,Roper Industries,roperind.com
+821,Ferro,ferro.com
+822,A.O. Smith,aosmith.com
+823,Synovus Financial Corp.,synovus.com
+824,Ferrellgas Partners,ferrellgas.com
+825,DST Systems,dstsystems.com
+826,Spansion,spansion.com
+827,HCC Insurance Holdings,hcc.com
+828,Brown Shoe,brownshoe.com
+829,Laclede Group,thelacledegroup.com
+830,Celgene,celgene.com
+831,Aventine Renewable Energy Holdings,aventinerei.com
+832,West,west.com
+833,Regal-Beloit,regalbeloit.com
+834,Frontier Communications,frontier.com
+835,Broadridge Financial Solutions,broadridge.com
+836,Donaldson,donaldson.com
+837,Universal Forest Products,ufpi.com
+838,Newfield Exploration,newfld.com
+839,MPS Group,mpsgrp.com
+840,Rowan Cos.,rowancompanies.com
+841,Patterson-UTI Energy,patenergy.com
+842,Sigma-Aldrich,sigmaaldrich.com
+843,Alliance Data Systems,alliancedata.com
+844,Dresser-Rand Group,dresser-rand.com
+845,Zale,zales.com
+846,AnnTaylor Stores,anntaylor.com
+847,Dentsply International,dentsply.com
+848,Spherion,spherion.com
+849,HealthSpring,healthspring.com
+850,Universal,universalorlando.com
+851,Interactive Brokers Group,interactivebrokers.com
+852,NBTY,nbty.com
+853,Affinia Group Intermediate Holdings,affiniagroup.com
+854,ScanSource,scansource.com
+855,Werner Enterprises,werner.com
+856,Hayes Lemmerz,hayes-lemmerz.com
+857,Tupperware Brands,tupperwarebrands.com
+858,Metals USA Holdings,metalsusa.com
+859,Service Corp. International,sci-corp.com
+860,Imation,imation.com
+861,Select Medical Holdings,selectmedicalholdings.com
+862,Briggs & Stratton,briggsandstratton.com
+863,Phoenix,phoenix.gov
+864,Atlas America,atlasamericainsurance.net
+865,Equity Residential,equityapartments.com
+866,Helix Energy Solutions Group,helixesg.com
+867,Southwest Gas,swgas.com
+868,DynCorp International,dyn-intl.com
+869,Acuity Brands,acuitybrands.com
+870,Martin Marietta Materials,martinmarietta.com
+871,T. Rowe Price,corporate.troweprice.com
+872,Iasis Healthcare,iasishealthcare.com
+873,BE Aerospace,beaerospace.com
+874,American Axle & Manufacturing,aam.com
+875,Warnaco Group,warnaco.com
+876,Varian Medical Systems,varian.com
+877,Cenveo,cenveo.com
+878,Guess,guess.com
+879,Sauer-Danfoss,sauer-danfoss.com
+880,Applied Industrial Technologies,applied.com
+881,Piedmont Natural Gas,piedmontng.com
+882,Pacer International,pacer.com
+883,Beazer Homes USA,beazer.com
+884,AptarGroup,investors.aptar.com
+885,Paychex,paychex.com
+886,ON Semiconductor,onsemi.com
+887,Maxim Integrated Products,maximintegrated.com
+888,Univision Communications,corporate.univision.com
+889,Amerco,amerco.com
+890,Carpenter Technology,cartech.com
+891,Helmerich & Payne,hpinc.com
+892,Alexander & Baldwin,alexanderbaldwin.com
+893,Enersys,enersysinc.com
+894,PerkinElmer,perkinelmer.com
+895,Alliance One International,aointl.com
+896,Gardner Denver,gardnerdenver.com
+897,Herman Miller,hermanmiller.com
+898,Belden,belden.com
+899,MEMC Electronic Materials,memc.com
+900,A. Schulman,aschulman.com
+901,Oceaneering International,oceaneering.com
+902,Ryland Group,ryland.com
+903,Cephalon,cephalon.com
+904,Mettler-Toledo International,us.mt.com
+905,Men's Wearhouse,menswearhouse.com
+906,Key Energy Services,keyenergy.com
+907,Century Aluminum,centuryaluminum.com
+908,Cimarex Energy,cimarex.com
+909,Leap Wireless International,leapwireless.com
+910,Baldor Electric,baldor.com
+911,Polaris Industries,riders.polarisindustries.com
+912,PharMerica,pharmerica.com
+913,Total System Services,tsys.com
+914,LKQ,lkqcorp.com
+915,Equifax,equifax.com
+916,Brookdale Senior Living,brookdaleliving.com
+917,Pep Boys,pepboys.com
+918,Itron,itron.com
+919,Valmont Industries,valmont.com
+920,M&F Worldwide,mandfworldwide.com
+921,Moog,moog.com
+922,Jo-Ann Stores,joann.com
+923,McClatchy,mcclatchy.com
+924,Markel,markelcorp.com
+925,Complete Production Services,completeproduction.com
+926,Buckeye GP Holdings,buckeye.com
+927,Teledyne Technologies,teledyne.com
+928,National Semiconductor,national.com
+929,A?ropostale,aeropostale.com
+930,Retail Ventures,en.wikipedia.org
+931,Priceline.com,priceline.com
+932,Sun Healthcare Group,sunh.client.shareholder.com
+933,Superior Energy Services,superiorenergy.com
+934,Sentry Insurance Group,sentry.com
+935,Inergy Holdings,investor.inergylp.com
+936,Toro,toro.com
+937,IDT,idt.com
+938,Kinetic Concepts,kci1.com
+939,Modine Manufacturing,modine.com
+940,HealthSouth,healthsouth.com
+941,ManTech International,mantech.com
+942,Hill-Rom Holdings,hill-rom.com
+943,Lender Processing Services,lpsvcs.com
+944,Hub Group,hubgroup.com
+945,Mueller Water Products,muellerwaterproducts.com
+946,PSS World Medical,pssworldmedical.com
+947,RBS Global,rbs.com
+948,Kansas City Southern,kcsi.com
+949,Solo Cup,solocup.com
+950,Plexus,plexus.com
+951,Xilinx,xilinx.com
+952,Westar Energy,westarenergy.com
+953,Urban Outfitters,urbanoutfitters.com
+954,Arkansas Best,arkbest.com
+955,Curtiss-Wright,curtisswright.com
+956,Covance,covance.com
+957,Wendy's/Arby's Group,ir.wendys.com
+958,Perrigo,perrigo.com
+959,Radian Group,radian.biz
+960,E.W. Scripps,scripps.com
+961,Michael Foods,michaelfoods.com
+962,Cypress Semiconductor,cypress.com
+963,Fred's,fredsinc.com
+964,Vought Aircraft Industries,triumphgroup.com
+965,Beacon Roofing Supply,beaconroofingsupply.com
+966,Pool,amazon.com
+967,Boyd Gaming,boydgaming.com
+968,Psychiatric Solutions,psysolutions.com
+969,MSC Industrial Direct,mscdirect.com
+970,American Greetings,americangreetings.com
+971,Duane Reade Holdings,duanereade.com
+972,Mutual of America Life,mutualofamerica.com
+973,KAR Holdings,karauctionservices.com
+974,Verso Paper,versopaper.com
+975,RSC Holdings,rscrental.com
+976,Olin,olin.edu
+977,Bio-Rad Laboratories,bio-rad.com
+978,NCI Building Systems,ncilp.com
+979,Teradata,teradata.com
+980,Watson Wyatt Worldwide,towerswatson.com
+981,Children's Place Retail Stores,childrensplace.com
+982,Furniture Brands International,furniturebrands.com
+983,Invacare,invacare.com
+984,Moody's,moodys.com
+985,PC Connection,pcconnection.com
+986,Public Storage,publicstorage.com
+987,Portland General Electric,portlandgeneral.com
+988,Eagle Rock Energy Partners,eaglerockenergy.com
+989,Cinemark Holdings,cinemark.com
+990,Sunrise Senior Living,sunriseseniorliving.com
+991,Bob Evans Farms,bobevans.com
+992,OM Group,omgi.com
+993,Fleetwood Enterprises,fleetwood.com
+994,BMC Software,bmc.com
+995,Dun & Bradstreet,dnb.com
+996,Tellabs,tellabs.com
+997,Administaff,administaff.com
+998,Sanderson Farms,sandersonfarms.com
+999,MGIC Investment,mgic.com
+1000,Career Education,careered.com
